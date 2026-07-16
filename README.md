@@ -67,12 +67,12 @@ I actively engage in algorithmic problem-solving to maintain a sharp engineering
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=DAZZLER0&show_icons=true&theme=tokyonight&hide_border=true&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&bg_color=1A1B26" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DAZZLER0&show_icons=true&theme=tokyonight&hide_border=true&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&bg_color=1A1B26" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DAZZLER0&theme=tokyonight&hide_border=true&fire=F7768E&ring=7AA2F7&currStreakNum=C0CAF5" alt="GitHub Streak" width="48%" />
 
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAZZLER0&layout=compact&theme=tokyonight&hide_border=true&title_color=7AA2F7&text_color=C0CAF5&bg_color=1A1B26" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DAZZLER0&layout=compact&theme=tokyonight&hide_border=true&title_color=7AA2F7&text_color=C0CAF5&bg_color=1A1B26" alt="Top Languages" width="60%" />
 
   <br/><br/>
 
