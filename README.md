@@ -7,12 +7,12 @@
 **Architecting High-Performance Systems & Scalable Solutions**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ananttiwary007&label=Profile%20Views&color=BB9AF7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DAZZLER0&label=Profile%20Views&color=BB9AF7&style=for-the-badge" alt="Profile Views" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ananttiwary007)
 [![Portfolio](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananttiwary007@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/ananttiwary007/)
 
 ---
 
@@ -43,9 +43,9 @@ I actively engage in algorithmic problem-solving to maintain a sharp engineering
 
 | Project & Architecture | Business Problem Solved | Key Engineering Feats |
 | :--- | :--- | :--- |
-| **[Low-Latency Quant Trading Bot](https://github.com/ananttiwary007)**<br/>*C++, Python, PyTorch, Winsock2* | Bridged the gap between heavy ML inference and high-speed execution for automated portfolio management. | Developed over a rigorous 8-week development sprint. Engineered a dual-language IPC architecture using Winsock2 TCP/IP, achieving sub-millisecond round-trip latency. Built a deterministic C++ state machine enforcing institutional risk controls. |
-| **[Kinetic Care](https://github.com/ananttiwary007)**<br/>*React, MediaPipe, Three.js, WebGL* | Democratized physical therapy through an accessible, AI-powered browser platform for real-time form validation. | Architected a sub-30ms 3D skeletal rendering pipeline. Engineered vector dot-product kinematic logic, experimentally validating a $\pm2.3^{\circ}$ mean absolute error. Integrated a stateful hysteresis state machine. |
-| **[NextTalk Platform](https://github.com/ananttiwary007)**<br/>*Node.js, React, Socket.io, MongoDB* | Delivered scalable, low-latency communication infrastructure for concurrent user messaging. | Implemented full-stack JWT authentication, stateless RESTful APIs, and bidirectional WebSocket communication following strict MVC principles. |
+| **[Low-Latency Quant Trading Bot](https://github.com/DAZZLER0/low-latency-trading-architecture)**<br/>*C++, Python, PyTorch, Winsock2* | Bridged the gap between heavy ML inference and high-speed execution for automated portfolio management. | Developed over a rigorous 8-week development sprint. Engineered a dual-language IPC architecture using Winsock2 TCP/IP, achieving sub-millisecond round-trip latency. Built a deterministic C++ state machine enforcing institutional risk controls. |
+| **[Kinetic Care](https://github.com/Dushyant107/KineticCare)**<br/>*React, MediaPipe, Three.js, WebGL* | Democratized physical therapy through an accessible, AI-powered browser platform for real-time form validation. | Architected a sub-30ms 3D skeletal rendering pipeline. Engineered vector dot-product kinematic logic, experimentally validating a $\pm2.3^{\circ}$ mean absolute error. Integrated a stateful hysteresis state machine. |
+| **[NextTalk Platform](https://github.com/DAZZLER0/nexTTalk)**<br/>*Node.js, React, Socket.io, MongoDB* | Delivered scalable, low-latency communication infrastructure for concurrent user messaging. | Implemented full-stack JWT authentication, stateless RESTful APIs, and bidirectional WebSocket communication following strict MVC principles. |
 
 ---
 
@@ -67,20 +67,20 @@ I actively engage in algorithmic problem-solving to maintain a sharp engineering
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ananttiwary007&show_icons=true&theme=tokyonight&hide_border=true&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&bg_color=1A1B26" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananttiwary007&theme=tokyonight&hide_border=true&fire=F7768E&ring=7AA2F7&currStreakNum=C0CAF5" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DAZZLER0&show_icons=true&theme=tokyonight&hide_border=true&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&bg_color=1A1B26" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DAZZLER0&theme=tokyonight&hide_border=true&fire=F7768E&ring=7AA2F7&currStreakNum=C0CAF5" alt="GitHub Streak" width="48%" />
 
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananttiwary007&layout=compact&theme=tokyonight&hide_border=true&title_color=7AA2F7&text_color=C0CAF5&bg_color=1A1B26" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAZZLER0&layout=compact&theme=tokyonight&hide_border=true&title_color=7AA2F7&text_color=C0CAF5&bg_color=1A1B26" alt="Top Languages" width="60%" />
 
   <br/><br/>
 
   <!-- Contribution Snake Animation (Requires GitHub Action setup to generate the SVG) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananttiwary007/ananttiwary007/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ananttiwary007/ananttiwary007/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ananttiwary007/ananttiwary007/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DAZZLER0/DAZZLER0/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DAZZLER0/DAZZLER0/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DAZZLER0/DAZZLER0/output/github-contribution-grid-snake.svg">
   </picture>
 
 </div>
